@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "FlightBookingSystem.slnx",
+    "projects": [
+      "FlightBookingSystem\\FlightBookingSystem.csproj"
+    ]
+  }
+}
