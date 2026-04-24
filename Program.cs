@@ -1,6 +1,6 @@
-namespace FlyStackPayment
+namespace FlightBookingSystem
 {
-    internal static class Program
+    internal static class Program1
     {
         /// <summary>
         ///  The main entry point for the application.
