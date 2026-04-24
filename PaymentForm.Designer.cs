@@ -1,4 +1,4 @@
-﻿namespace FlyStackPayment
+﻿namespace FlightBookingSystem
 {
     partial class PaymentForm
     {
